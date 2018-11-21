@@ -5,7 +5,7 @@ This is a sample for you to remote control yanshee use udp broadcast.
 
 1、把listener文件夹拷贝到所有机器人身上
 
-2、将udp_broadcast.py文件放到任意一台希望做发布控制命令的机器人上
+2、将udp_broadcaster.py文件放到任意一台希望做发布控制命令的机器人上
 
 3、将listener里面的your_python.py文件换成你编辑好的动作舞蹈动作文件（xxx.py）
 
